@@ -16,7 +16,7 @@ namespace NtandoMabuthoStudyGroup.Controllers
                 students.Add(new Models.Student { StudentNumber = 01234567, FirstNaam = "Jane", Surname = "Doe", Email = "jane.doe@tuks.co.za" });
                 students.Add(new Models.Student { StudentNumber = 12345678, FirstNaam = "John", Surname = "Doe", Email = "john.doe@tuks.co.za" });
                 students.Add(new Models.Student { StudentNumber = 23717662, FirstNaam = "Leo", Surname = "Mchunu", Email = "mchunuleo@tuks.co.za" });
-                students.Add(new Models.Student { StudentNumber = 29695682, FirstNaam = "Cosmo", Surname = "Macigwane", Email = "cosmology@gmail.com" });
+                students.Add(new Models.Student { StudentNumber = 29695682, FirstNaam = "Cosmo", Surname = "Logical", Email = "cosmology@gmail.com" });
                 students.Add(new Models.Student { StudentNumber = 28779832, FirstNaam = "Kenneth", Surname = "Ngubane", Email = "kenniengubane@gmail.com" });
 
 
